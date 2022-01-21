@@ -1,0 +1,22 @@
+.site__content__modal{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 600px;
+    min-height: 600px;
+    background-color: bisque;
+    opacity: 0.9;
+    box-shadow: 4px 1px 10px 3px black;
+    top:25%;
+    left:25%;
+    border: 1px solid #060607;
+    border-radius: 10px;
+}
+
+.site__content__modal-button{
+    align-self: end;
+}
+
+.modal__button--close{
+    border-radius: 50%;
+}

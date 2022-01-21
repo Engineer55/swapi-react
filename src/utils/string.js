@@ -1,0 +1,1 @@
+export const removeDashFromString = (item) => item.split('_').join(' ')
