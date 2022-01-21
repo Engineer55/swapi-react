@@ -1,0 +1,42 @@
+body {
+  
+  background-color: rgba(1, 8, 8, 0.534);
+}
+/* #root::after{
+  content: '';
+  position: absolute;
+  top: 0;
+  left:0;
+  width: 100%;
+  min-height: 900px;
+  background-image: url(./png/pngegg.png);
+  background-repeat: no-repeat;
+  opacity: 0.3;
+}
+
+#root::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left:1300px;
+  width: 539px;
+  min-height: 840px;
+  background-image: url(./png/pngwing.com.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  opacity: 0.3;
+} */
+
+#root {
+  position: relative;
+  text-align: center;
+}
+
+.swapi__title{
+  color: rgb(243, 247, 16);
+  text-shadow: 1px 1px 1px #000;
+}
+
+.wrapper{
+  
+}
